@@ -1,6 +1,6 @@
 # Zombie Roll in Unity 2018
 
-Quick runthrough of the Unity [2018 Game Development Udemy Course](https://www.udemy.com/unity-2018-game-development/)
+My quick runthrough of the first part of the [Unity 2018 Game Development Udemy Course](https://www.udemy.com/unity-2018-game-development/).
 
 ## How to Play:
 Let the zombies touch the scorepads (but don't let them fall off)!
